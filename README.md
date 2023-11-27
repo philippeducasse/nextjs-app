@@ -2,6 +2,8 @@
 
 This is a small application which displays courses and repositories built with nextJS 13. 
 
+<img src= './screenshot.png'>
+
 ## Features and technologies
 
 - Displays a list of courses and repositories
