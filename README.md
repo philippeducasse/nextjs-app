@@ -1,3 +1,14 @@
+## Description
+
+This is a small application which displays courses and repositories built with nextJS 13. 
+
+## Features and technologies
+
+- Displays a list of courses and repositories
+- Implements Suspense boundaries for enhanced user experience
+- Server side as well as client-side rendering 
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
